@@ -1,2 +1,2 @@
 # ap-ca-project-site
-wesite for computer science projects
+website for computer science projects
